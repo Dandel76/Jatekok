@@ -32,6 +32,9 @@
                 <li class="nav-item"><a href="index.php" class="nav-link">Főoldal</a></li>
                 <li class="nav-item"><a href="index.php?program=kategoriak.php" class="nav-link">Kategóriák</a></li>
                 <li class="nav-item"><a href="index.php?program=jatekok.php" class="nav-link">Játékok</a></li>
+                <li class="nav-item"><a href="index.php?program=modositas.php" class="nav-link">Módosítás</a></li>
+                <li class="nav-item"><a href="index.php?program=torles.php" class="nav-link">Törlés</a></li>
+                <li class="nav-item"><a href="index.php?program=ujkategoria.php" class="nav-link">Új kategoria</a></li>
             </ul>
         </nav>
 

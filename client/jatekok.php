@@ -20,7 +20,8 @@
 
     <div class="row justify-content-center pt-2">
         <div class="col-md-3">
-             <select id="kategoriak" class="custom-select bg-secondary text-dark"></select>
+             <select id="kategoriak" class="custom-select bg-secondary text-dark"></select><br>
+             <button type="button" class="btn btn-light mt-2" onclick="showall()">Összes</button>
         </div>
         <div class="col-md-9">
             <table class="table table-dark">
